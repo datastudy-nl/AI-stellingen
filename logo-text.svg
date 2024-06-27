@@ -1,0 +1,20 @@
+<svg height="300" width="1200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-size: 150px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 900;
+      dominant-baseline: middle;
+    }
+  </style>
+  <path 
+  fill="#fff"
+  d="M0 225 L100 25 L150 45 L50 245 Z" />
+  <path 
+  fill="#fff"
+  d="M75 225 L175 25 L225 45 L125 245 Z" />
+  <path 
+  fill="#fff"
+  d="M150 225 L250 25 L300 45 L200 245 Z" />
+  <text x="350" y="160" fill="#fff" class='title' font-weight="normal">Datastudy</text>
+</svg>
