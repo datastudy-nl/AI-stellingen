@@ -64,7 +64,7 @@ function nextStatement(direction) {
             currentCard.style.transition = 'all 0.1s ease';
             currentCard.style.opacity = 1;
         }, 300);
-    }, 200);
+    }, 300);
 }
 
 
@@ -169,3 +169,7 @@ fetch('./stellingen.json')
         });
         loadStatement();
     });
+
+
+
+    
